@@ -1,6 +1,6 @@
 # Iris Player Visualizer
 Developed using React. 
-https://iris-player-visualizer-tqrtzksnjh.now.sh
+https://iris-player-visualizer-primennlxj.now.sh
 
 ## To develop
 Just run
