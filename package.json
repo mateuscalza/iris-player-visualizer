@@ -1,0 +1,32 @@
+{
+  "name": "iris-player-visualizer",
+  "version": "1.0.0",
+  "description": "Iris Player Visualizer",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "prod": "npm run build && npm run start"
+  },
+  "keywords": [
+    "iris",
+    "player",
+    "visualizer",
+    "react",
+    "linein",
+    "playlist"
+  ],
+  "license": "MIT",
+  "author": "Mateus Henrique Calza",
+  "dependencies": {
+    "color": "^0.11.4",
+    "next": "latest",
+    "react": "^15.3.2",
+    "react-dropzone": "^3.7.3",
+    "react-fontawesome": "^1.3.1",
+    "throttle-debounce": "^1.0.1"
+  },
+  "next": {
+    "cdn": false
+  }
+}
